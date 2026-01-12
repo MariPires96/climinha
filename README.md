@@ -4,6 +4,9 @@ O **Climinha** é um aplicativo simples de clima desenvolvido com **HTML5, CSS3 
 
 O projeto consome a **API Open-Meteo** para obter dados meteorológicos em tempo real e previsão estendida, simulando o funcionamento de um app de clima real.
 
+🔗 **Demo:** [https://maripires96.github.io/climinha/](https://maripires96.github.io/climinha/)
+
+
 ---
 
 ## 🚀 Funcionalidades
