@@ -26,7 +26,7 @@ O projeto consome a **API Open-Meteo** para obter dados meteorológicos em tempo
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla JS)
+* JavaScript
 * API Open-Meteo
 
 ---
